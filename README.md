@@ -1,1 +1,6 @@
-# meu-mundo-tecnologico
+# Meu Mundo Tecnológico
+
+![alt text](palestras.jpg)
+
+
+
