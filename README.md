@@ -1,6 +1,6 @@
 # Meu Mundo Tecnológico
 
-![alt text](palestras.jpg)
+![alt text](palestras.jpeg)
 
 
 
